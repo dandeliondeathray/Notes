@@ -16,5 +16,5 @@ Things we will work on, eventually:
 - Niancat
 
 ## Ideas
-A "KAFKA" bot that keeps info on the next meeting, and reminds people.
+A "KAFKA" bot that keeps info on the next meeting, and reminds people. The bot should register with the name "Franz".
 
