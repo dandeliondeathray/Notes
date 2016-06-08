@@ -26,7 +26,7 @@ had. The immediate tasks are:
 
 - Bug fixes, when found.
 - Persistent puzzle storage.
-- Store unsolutions as remínders.
+- Store unsolutions as reminders.
 - Extract current bot design into a bot library? I'm unclear on this, as I think the design became
   bulky and not very quick to work with.
 
